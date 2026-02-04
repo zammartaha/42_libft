@@ -1,6 +1,6 @@
 *This project has been created as part of the 42 curriculum by tzammar.*
 
-# Libft - 42 Beirut
+# Libft - My First C Library
 
 ## Description
 **Libft** is the foundational project of the 42 curriculum. The objective is to create a custom C library that re-implements a variety of standard functions from the C library, as well as additional utility functions.
@@ -63,8 +63,8 @@ cc -Wall -Wextra -Werror main.c ./libft/libft.a -o my_program
 ## Resources
 
 ### References
-* **Linux Manual Pages (man):** Used to cross-reference the expected behavior of standard libc functions. https://man7.org/
-* **Makefile Tutorial:** Guidance on creating efficient rules for compilation and dependency management. https://makefiletutorial.com/
+* **[Linux Manual Pages](https://man7.org/) (man):** Used to cross-reference the expected behavior of standard libc functions.
+* **[Makefile Tutorial](https://makefiletutorial.com/):** Guidance on creating efficient rules for compilation and dependency management.
 
 ### AI Usage
 **AI (Gemini) was utilized as a collaborative tool for the following tasks:**
